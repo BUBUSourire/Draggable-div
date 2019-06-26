@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    box-sizing: border-box;
+}
+.dv {
+    width: 100px;
+    height: 100px;
+    background-color: paleturquoise;
+    position: absolute;
+    left: 0;
+    margin: 0;
+}
